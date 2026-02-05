@@ -11,7 +11,7 @@ Hi I am Jas a fullstack developer and a passionate coder .I am<br> eager to lear
 
 ![](https://github-readme-stats.vercel.app/api?username=JAS2609&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=JAS2609&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JAS2609)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JAS2609&theme=dark&hide_border=false&layout=compact&cache_seconds=1800)
 
